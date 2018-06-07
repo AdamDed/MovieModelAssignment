@@ -1,0 +1,7 @@
+C:\Users\lilian\Source\Repos\MovieModelAssignment\MovieModelAssignment\bin\Debug\MovieModelAssignment.exe.config
+C:\Users\lilian\Source\Repos\MovieModelAssignment\MovieModelAssignment\bin\Debug\MovieModelAssignment.exe
+C:\Users\lilian\Source\Repos\MovieModelAssignment\MovieModelAssignment\bin\Debug\MovieModelAssignment.pdb
+C:\Users\lilian\Source\Repos\MovieModelAssignment\MovieModelAssignment\obj\Debug\MovieModelAssignment.csprojAssemblyReference.cache
+C:\Users\lilian\Source\Repos\MovieModelAssignment\MovieModelAssignment\obj\Debug\MovieModelAssignment.csproj.CoreCompileInputs.cache
+C:\Users\lilian\Source\Repos\MovieModelAssignment\MovieModelAssignment\obj\Debug\MovieModelAssignment.exe
+C:\Users\lilian\Source\Repos\MovieModelAssignment\MovieModelAssignment\obj\Debug\MovieModelAssignment.pdb
